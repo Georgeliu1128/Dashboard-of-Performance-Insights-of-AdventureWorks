@@ -30,7 +30,7 @@ This repository contains a Power BI dashboard that visualizes key business metri
 - **Connection**: SQL Server (DirectQuery or Import)
 - **Tables Used**: `SalesOrderHeader`, `SalesOrderDetail`, `Product`, `Customer`, `Employee`, `Department`, `SalesTerritory`, `ProductCategory`, `ProductInventory`
 
-![Dashboard]([Dashborad-AdventureWorks.pbix)
+![Dashboard of AdventureWorks](Dashborad-AdventureWorks.png)
 
 
 
