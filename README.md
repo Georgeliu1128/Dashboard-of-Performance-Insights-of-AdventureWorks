@@ -2,6 +2,8 @@
 
 This repository contains a Power BI dashboard that visualizes key business metrics from the AdventureWorks2019 SQL database. It provides insights into sales performance, customer behavior, product profitability, territory growth, and operational efficiency.
 
+![Dashboard of AdventureWorks](Dashborad-AdventureWorks.png)
+
 ## 🚀 Dashboard Highlights
 
 ### 🔹 Strategic KPIs
@@ -29,8 +31,4 @@ This repository contains a Power BI dashboard that visualizes key business metri
 - **Database**: AdventureWorks2019
 - **Connection**: SQL Server (DirectQuery or Import)
 - **Tables Used**: `SalesOrderHeader`, `SalesOrderDetail`, `Product`, `Customer`, `Employee`, `Department`, `SalesTerritory`, `ProductCategory`, `ProductInventory`
-
-![Dashboard of AdventureWorks](Dashborad-AdventureWorks.png)
-
-
 
